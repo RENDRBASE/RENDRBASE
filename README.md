@@ -1,28 +1,17 @@
-# RENDERBASE 🖥️⚡
+Hi there 👋
+markdown# RENDERBASE 🖥️⚡ License Build Status Coverage Base AI DePIN
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)
-![Coverage](https://img.shields.io/badge/coverage-87%25-green.svg)
-![Base](https://img.shields.io/badge/Base-L2-blue.svg)
-![AI](https://img.shields.io/badge/AI-Optimized-green.svg)
-![DePIN](https://img.shields.io/badge/DePIN-Enabled-purple.svg)
-
-**Next-Generation Decentralized GPU Rental Protocol on Base**
+Next-Generation Decentralized GPU Rental Protocol on Base
 
 RENDERBASE is an advanced decentralized protocol that combines AI optimization, edge computing, and DePIN infrastructure to provide the most efficient GPU rental marketplace. Built on Base blockchain for trustless, intelligent, and geographically-optimized compute allocation.
 
-## 🔧 How It Works
-
-- **GPU Providers** connect their hardware globally and earn rewards through our intelligent staking system
-- **GPU Renters** access AI-optimized GPU allocation with real-time latency optimization
-- **Smart Routing** automatically selects optimal GPUs based on workload requirements and geographic proximity
-- All interactions managed **on-chain** through audited smart contracts with advanced DePIN features
-
-## 🚀 Quick Start
-
-### For GPU Renters
-
-bash
+🔧 How It Works
+GPU Providers connect their hardware globally and earn rewards through our intelligent staking system
+GPU Renters access AI-optimized GPU allocation with real-time latency optimization
+Smart Routing automatically selects optimal GPUs based on workload requirements and geographic proximity
+All interactions managed on-chain through audited smart contracts with advanced DePIN features
+🚀 Quick Start
+For GPU Renters
 npm install @renderbase/sdk
 javascriptimport { RenderBaseClient } from '@renderbase/sdk';
 
@@ -191,12 +180,12 @@ Oracle Networks: Verified by Chainlink Labs
 Bug bounty program: Up to $250K for critical vulnerabilities
 🗺️ Roadmap
 
-✅ Q4 2024: Core protocol + Basic AI optimization
-🔄 Q1 2025: Edge network deployment (150 nodes)
-📅 Q2 2025: Latency oracles + Geographic staking
-📅 Q3 2025: Advanced AI features + Mobile SDK
-📅 Q4 2025: Multi-chain expansion + Enterprise features
-📅 2026: Autonomous network + 1000+ edge nodes
+ Q4 2024: Core protocol + Basic AI optimization
+ Q1 2025: Edge network deployment (150 nodes)
+ Q2 2025: Latency oracles + Geographic staking
+ Q3 2025: Advanced AI features + Mobile SDK
+ Q4 2025: Multi-chain expansion + Enterprise features
+ 2026: Autonomous network + 1000+ edge nodes
 
 🌐 Links
 
