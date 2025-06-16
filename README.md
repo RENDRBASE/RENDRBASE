@@ -1,4 +1,5 @@
-markdown# RENDERBASE 🖥️⚡
+# RENDERBASE 🖥️⚡
+
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)
 ![Coverage](https://img.shields.io/badge/coverage-87%25-green.svg)
@@ -20,7 +21,8 @@ RENDERBASE is an advanced decentralized protocol that combines AI optimization, 
 ## 🚀 Quick Start
 
 ### For GPU Renters
-```bash
+
+bash
 npm install @renderbase/sdk
 javascriptimport { RenderBaseClient } from '@renderbase/sdk';
 
@@ -189,12 +191,12 @@ Oracle Networks: Verified by Chainlink Labs
 Bug bounty program: Up to $250K for critical vulnerabilities
 🗺️ Roadmap
 
- Q4 2024: Core protocol + Basic AI optimization
- Q1 2025: Edge network deployment (150 nodes)
- Q2 2025: Latency oracles + Geographic staking
- Q3 2025: Advanced AI features + Mobile SDK
- Q4 2025: Multi-chain expansion + Enterprise features
- 2026: Autonomous network + 1000+ edge nodes
+✅ Q4 2024: Core protocol + Basic AI optimization
+🔄 Q1 2025: Edge network deployment (150 nodes)
+📅 Q2 2025: Latency oracles + Geographic staking
+📅 Q3 2025: Advanced AI features + Mobile SDK
+📅 Q4 2025: Multi-chain expansion + Enterprise features
+📅 2026: Autonomous network + 1000+ edge nodes
 
 🌐 Links
 
